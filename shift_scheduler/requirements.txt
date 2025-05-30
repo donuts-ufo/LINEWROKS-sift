@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2
+pydantic
+httpx
+pyjwt
+python-dotenv
+openpyxl
+apscheduler
